@@ -1,4 +1,3 @@
-<img width="1122" height="630" alt="image" src="https://github.com/user-attachments/assets/e7c84643-ecc5-4f39-905f-6a1f31f91f8b" /># 🏜️ Sahara Adventures – Travel Website
 
 A modern, responsive travel website showcasing the beauty, culture, and mystery of the Sahara Desert and its surrounding regions. Built using **HTML, CSS, and JavaScript**, this project is designed to inspire exploration and provide an immersive visual experience.
 
